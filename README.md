@@ -12,4 +12,4 @@ the growth and success of a forward-thinking tech company.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once vaccinated an 101 year-old lady. She was chill - seen it all before obviously.
 
-https://github-readme-codewars-stats.herokuapp.com/api/?username=leepal&badge&colormode=dark_mode
+![Codewars](https://github.r2v.ch/codewars?user=leepal)
