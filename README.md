@@ -11,3 +11,5 @@ the growth and success of a forward-thinking tech company.
 - 📫 How to reach me: leepalmerformal@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once vaccinated an 101 year-old lady. She was chill - seen it all before obviously.
+
+https://www.codewars.com/users/leepal/badges/large
