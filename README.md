@@ -11,4 +11,4 @@ I now work for a global and forward-thinking leader in technology. Currently, I 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once vaccinated an 101 year-old lady. She was chill - seen it all before obviously.
 
-  ![Codewars](https://github.r2v.ch/codewars?user=leepal)
+[Codewars](https://github.r2v.ch/codewars?user=leepal)
