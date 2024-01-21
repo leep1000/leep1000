@@ -1,6 +1,6 @@
 Hi 👋
 
-As a motivated individual with a background in clinical research, I took the bold step of leaving my secure previous role to pursue a new career in technology after discovering a passion for coding during downtime at work. 
+As a motivated individual with a background in clinical research, I left my secure previous role to pursue a new career in technology after discovering a passion for coding during downtime at work. 
 
 
 I now work for a global and forward-thinking leader in technology. Currently, I am gaining my Digital and Technological degree as well as developing proficiency in developing real-world business solutions.
